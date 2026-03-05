@@ -65,4 +65,3 @@ Como Executar o Projeto
 1.  Clone o repositório.
 2.  Abra o projeto em sua IDE Java (VS Code ou Eclipse IDE).
 3.  Execute o arquivo `src/Main.java`. O console mostrará os resultados dos testes de depósito e saque.
-4.  
